@@ -6,7 +6,7 @@ class Program   // Main class of the application
     {
         // Ask user to enter first number
         Console.Write("Enter First Number: ");
-        
+         
         // Read input as string
         string num1 = Console.ReadLine();
         
