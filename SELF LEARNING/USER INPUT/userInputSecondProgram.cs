@@ -8,7 +8,7 @@ class Program
         string input = Console.ReadLine();
 
         string[] values = input.Split(' ');
-
+ 
         int a = int.Parse(values[0]);
         int b = int.Parse(values[1]);
 
