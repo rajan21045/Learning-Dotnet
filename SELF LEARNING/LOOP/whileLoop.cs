@@ -13,7 +13,6 @@ namespace MyProgram{
 				Console.WriteLine(j*2);
 				j++;
 			}
-	
 		}
 	}
 }
