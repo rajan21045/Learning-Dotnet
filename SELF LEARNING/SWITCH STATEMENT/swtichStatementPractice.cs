@@ -3,6 +3,7 @@ class swtichStatementPractice
 {
     static void Main()
     {
+
         // 1. Write a C# program that takes a number (1–7) and prints the corresponding day of the week using a switch statement.
         Console.Write("Enter A Number Between 1 - 7: ");
         int day = Convert.ToInt32(Console.ReadLine());
